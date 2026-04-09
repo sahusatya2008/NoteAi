@@ -97,3 +97,4 @@ data/                    Runtime workspace file, created automatically
 # NoteAI
 # NoteAI
 # NoteAI
+# NoteAi
