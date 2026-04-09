@@ -93,8 +93,7 @@ data/                    Runtime workspace file, created automatically
 - The current SNSAI engine is local and deterministic, so the app works without a cloud AI dependency.
 - Browser/device narration still works for instant story playback.
 - If you want to take SNSAI further later, the backend is now organized around your own local model stack instead of only static heuristics.
-# SNSX-AI-Ecommerce-System
-# NoteAI
-# NoteAI
-# NoteAI
-# NoteAi
+
+## Developer & Note:
+- Satya Narayan Sahu
+- This entire software is fully owned by Satya Narayan Sahu and copying/modifying/commercial usage or anything is strictly prohibited.
