@@ -95,3 +95,4 @@ data/                    Runtime workspace file, created automatically
 - If you want to take SNSAI further later, the backend is now organized around your own local model stack instead of only static heuristics.
 # SNSX-AI-Ecommerce-System
 # NoteAI
+# NoteAI
