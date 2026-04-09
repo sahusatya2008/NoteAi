@@ -96,3 +96,4 @@ data/                    Runtime workspace file, created automatically
 # SNSX-AI-Ecommerce-System
 # NoteAI
 # NoteAI
+# NoteAI
